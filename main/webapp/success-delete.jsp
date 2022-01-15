@@ -9,7 +9,7 @@
 <body>
 
 	<p>File deleted successfully!</p>  
-	<jsp:include page="index.jsp"></jsp:include> 
+	<jsp:include page="index1.jsp"></jsp:include> 
 
 </body>
 </html>

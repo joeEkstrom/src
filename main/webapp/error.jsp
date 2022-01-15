@@ -10,7 +10,7 @@
 
 	<p>Sorry, an error occurred!</p>
 	<p><font color="red">Error: <%=exception.getMessage() %></font></p>
-	<jsp:include page="index.jsp"></jsp:include> 
+	<jsp:include page="index1.jsp"></jsp:include> 
 
 </body>
 </html>
